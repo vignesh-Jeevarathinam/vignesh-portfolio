@@ -15,8 +15,8 @@ export default function ProfileCard() {
           relative
           w-[320px]
           h-[320px]
-          md:w-[420px]
-          md:h-[420px]
+          md:w-[480px]
+          md:h-[480px]
           object-cover
           rounded-3xl
           border
